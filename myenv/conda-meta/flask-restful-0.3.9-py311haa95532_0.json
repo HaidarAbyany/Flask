@@ -1,0 +1,272 @@
+{
+  "build": "py311haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "aniso8601 >=0.82",
+    "flask >=0.8",
+    "python >=3.11,<3.12.0a0",
+    "pytz",
+    "six >=1.3.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Muhammad Sopian Ts\\anaconda3\\pkgs\\flask-restful-0.3.9-py311haa95532_0",
+  "files": [
+    "Lib/site-packages/Flask_RESTful-0.3.9.dist-info/AUTHORS.md",
+    "Lib/site-packages/Flask_RESTful-0.3.9.dist-info/INSTALLER",
+    "Lib/site-packages/Flask_RESTful-0.3.9.dist-info/LICENSE",
+    "Lib/site-packages/Flask_RESTful-0.3.9.dist-info/METADATA",
+    "Lib/site-packages/Flask_RESTful-0.3.9.dist-info/RECORD",
+    "Lib/site-packages/Flask_RESTful-0.3.9.dist-info/REQUESTED",
+    "Lib/site-packages/Flask_RESTful-0.3.9.dist-info/WHEEL",
+    "Lib/site-packages/Flask_RESTful-0.3.9.dist-info/direct_url.json",
+    "Lib/site-packages/Flask_RESTful-0.3.9.dist-info/top_level.txt",
+    "Lib/site-packages/flask_restful/__init__.py",
+    "Lib/site-packages/flask_restful/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/flask_restful/__pycache__/__version__.cpython-311.pyc",
+    "Lib/site-packages/flask_restful/__pycache__/fields.cpython-311.pyc",
+    "Lib/site-packages/flask_restful/__pycache__/inputs.cpython-311.pyc",
+    "Lib/site-packages/flask_restful/__pycache__/reqparse.cpython-311.pyc",
+    "Lib/site-packages/flask_restful/__version__.py",
+    "Lib/site-packages/flask_restful/fields.py",
+    "Lib/site-packages/flask_restful/inputs.py",
+    "Lib/site-packages/flask_restful/representations/__init__.py",
+    "Lib/site-packages/flask_restful/representations/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/flask_restful/representations/__pycache__/json.cpython-311.pyc",
+    "Lib/site-packages/flask_restful/representations/json.py",
+    "Lib/site-packages/flask_restful/reqparse.py",
+    "Lib/site-packages/flask_restful/utils/__init__.py",
+    "Lib/site-packages/flask_restful/utils/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/flask_restful/utils/__pycache__/cors.cpython-311.pyc",
+    "Lib/site-packages/flask_restful/utils/__pycache__/crypto.cpython-311.pyc",
+    "Lib/site-packages/flask_restful/utils/cors.py",
+    "Lib/site-packages/flask_restful/utils/crypto.py",
+    ".nonadmin"
+  ],
+  "fn": "flask-restful-0.3.9-py311haa95532_0.conda",
+  "legacy_bz2_md5": "a6c16e6cf0fc776a53ef9bd88dffd963",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\Muhammad Sopian Ts\\anaconda3\\pkgs\\flask-restful-0.3.9-py311haa95532_0",
+    "type": 1
+  },
+  "md5": "651e9a5f6e8f09d2ae1b28773307b698",
+  "name": "flask-restful",
+  "package_tarball_full_path": "C:\\Users\\Muhammad Sopian Ts\\anaconda3\\pkgs\\flask-restful-0.3.9-py311haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/Flask_RESTful-0.3.9.dist-info/AUTHORS.md",
+        "path_type": "hardlink",
+        "sha256": "1c1ab4d33fd580c236c5fc1f5286eb535ebfa9a99da2e324a4dc5b4740736958",
+        "sha256_in_prefix": "1c1ab4d33fd580c236c5fc1f5286eb535ebfa9a99da2e324a4dc5b4740736958",
+        "size_in_bytes": 1992
+      },
+      {
+        "_path": "Lib/site-packages/Flask_RESTful-0.3.9.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/Flask_RESTful-0.3.9.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "3c58e83b4264e68926b21020322c79f916530b4b054ff1095a90bf0ad41c0b23",
+        "sha256_in_prefix": "3c58e83b4264e68926b21020322c79f916530b4b054ff1095a90bf0ad41c0b23",
+        "size_in_bytes": 1485
+      },
+      {
+        "_path": "Lib/site-packages/Flask_RESTful-0.3.9.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "ea135010336ca6857d3f05fff1a7beee200fd483756bffb7b06792af4ee01b13",
+        "sha256_in_prefix": "ea135010336ca6857d3f05fff1a7beee200fd483756bffb7b06792af4ee01b13",
+        "size_in_bytes": 949
+      },
+      {
+        "_path": "Lib/site-packages/Flask_RESTful-0.3.9.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "2696060ba7fb2fb0346c0765e90fd5f6894c5405e7eb0c8138fb1dda051d3290",
+        "sha256_in_prefix": "2696060ba7fb2fb0346c0765e90fd5f6894c5405e7eb0c8138fb1dda051d3290",
+        "size_in_bytes": 2251
+      },
+      {
+        "_path": "Lib/site-packages/Flask_RESTful-0.3.9.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/Flask_RESTful-0.3.9.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "cfd8f4c406bf26650a3299b3ef62b464600b48cfe7fb04159866e5797c765478",
+        "sha256_in_prefix": "cfd8f4c406bf26650a3299b3ef62b464600b48cfe7fb04159866e5797c765478",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "Lib/site-packages/Flask_RESTful-0.3.9.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "d8ff132d750ba03f58cfdabb5a930b3a3cd0e1f6488b6339948c7aa0736884f0",
+        "sha256_in_prefix": "d8ff132d750ba03f58cfdabb5a930b3a3cd0e1f6488b6339948c7aa0736884f0",
+        "size_in_bytes": 77
+      },
+      {
+        "_path": "Lib/site-packages/Flask_RESTful-0.3.9.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "94da563e57a380102d321094c33fc54f2247d76ba5d66059f94bf764ad478868",
+        "sha256_in_prefix": "94da563e57a380102d321094c33fc54f2247d76ba5d66059f94bf764ad478868",
+        "size_in_bytes": 14
+      },
+      {
+        "_path": "Lib/site-packages/flask_restful/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "fd023342fd51d1f8db1e10df966721cd1b7b17109377ce7d472cf29e77a65127",
+        "sha256_in_prefix": "fd023342fd51d1f8db1e10df966721cd1b7b17109377ce7d472cf29e77a65127",
+        "size_in_bytes": 27859
+      },
+      {
+        "_path": "Lib/site-packages/flask_restful/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7f9f12e7106d4f7fbc69defcd9a649c3a9e32a16872cfb80dbbfdd5d73fcab17",
+        "sha256_in_prefix": "7f9f12e7106d4f7fbc69defcd9a649c3a9e32a16872cfb80dbbfdd5d73fcab17",
+        "size_in_bytes": 34354
+      },
+      {
+        "_path": "Lib/site-packages/flask_restful/__pycache__/__version__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "3eb84a6239bce213fee20bc8b2081d48383805d79fe82897f3c4a3c85b3d0363",
+        "sha256_in_prefix": "3eb84a6239bce213fee20bc8b2081d48383805d79fe82897f3c4a3c85b3d0363",
+        "size_in_bytes": 177
+      },
+      {
+        "_path": "Lib/site-packages/flask_restful/__pycache__/fields.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "530400acf86559f5b3abb164914c1c069e0846bf89062cd7df4d1afc358458dd",
+        "sha256_in_prefix": "530400acf86559f5b3abb164914c1c069e0846bf89062cd7df4d1afc358458dd",
+        "size_in_bytes": 21223
+      },
+      {
+        "_path": "Lib/site-packages/flask_restful/__pycache__/inputs.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "8b25e2d1ae6ee47671d9fd26108c7a0e43bc82773e86488207b8cbf110fb2b76",
+        "sha256_in_prefix": "8b25e2d1ae6ee47671d9fd26108c7a0e43bc82773e86488207b8cbf110fb2b76",
+        "size_in_bytes": 12544
+      },
+      {
+        "_path": "Lib/site-packages/flask_restful/__pycache__/reqparse.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6ab59ba21c64d19fe9b091eab8c0360a3dba66f314901ab580d7828f0afa65ba",
+        "sha256_in_prefix": "6ab59ba21c64d19fe9b091eab8c0360a3dba66f314901ab580d7828f0afa65ba",
+        "size_in_bytes": 19218
+      },
+      {
+        "_path": "Lib/site-packages/flask_restful/__version__.py",
+        "path_type": "hardlink",
+        "sha256": "0a5f05df27640404692cbcae816ab1813c45e5a96429cb936e593be13ba2c342",
+        "sha256_in_prefix": "0a5f05df27640404692cbcae816ab1813c45e5a96429cb936e593be13ba2c342",
+        "size_in_bytes": 45
+      },
+      {
+        "_path": "Lib/site-packages/flask_restful/fields.py",
+        "path_type": "hardlink",
+        "sha256": "e3719b15e8d9de488e6f6d00d50bb32d78debdfb3131949b9a93a91ad5b9eafa",
+        "sha256_in_prefix": "e3719b15e8d9de488e6f6d00d50bb32d78debdfb3131949b9a93a91ad5b9eafa",
+        "size_in_bytes": 13018
+      },
+      {
+        "_path": "Lib/site-packages/flask_restful/inputs.py",
+        "path_type": "hardlink",
+        "sha256": "e7ad70f1f8cba81ab823fef25cf1c9339ebb8a35a1a6e7fc77cb999cacd37a10",
+        "sha256_in_prefix": "e7ad70f1f8cba81ab823fef25cf1c9339ebb8a35a1a6e7fc77cb999cacd37a10",
+        "size_in_bytes": 9118
+      },
+      {
+        "_path": "Lib/site-packages/flask_restful/representations/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/flask_restful/representations/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "f393c86b99ac482ddb490d2f318e90f5c45147081814b2363d793ac172a62d12",
+        "sha256_in_prefix": "f393c86b99ac482ddb490d2f318e90f5c45147081814b2363d793ac172a62d12",
+        "size_in_bytes": 168
+      },
+      {
+        "_path": "Lib/site-packages/flask_restful/representations/__pycache__/json.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2e82f07d22e484ea1d89ccb99779eb964155187a1cf5322c1a0787d54755ee4c",
+        "sha256_in_prefix": "2e82f07d22e484ea1d89ccb99779eb964155187a1cf5322c1a0787d54755ee4c",
+        "size_in_bytes": 1223
+      },
+      {
+        "_path": "Lib/site-packages/flask_restful/representations/json.py",
+        "path_type": "hardlink",
+        "sha256": "b302b09dbb7bbf68a81df1e4aa1a9bcc8bbfcab70fd02a26952978f4818524ea",
+        "sha256_in_prefix": "b302b09dbb7bbf68a81df1e4aa1a9bcc8bbfcab70fd02a26952978f4818524ea",
+        "size_in_bytes": 873
+      },
+      {
+        "_path": "Lib/site-packages/flask_restful/reqparse.py",
+        "path_type": "hardlink",
+        "sha256": "fb1666932aef0c57c6bc5168913b577b827ed8f5a7357e047caa258644fdf791",
+        "sha256_in_prefix": "fb1666932aef0c57c6bc5168913b577b827ed8f5a7357e047caa258644fdf791",
+        "size_in_bytes": 14681
+      },
+      {
+        "_path": "Lib/site-packages/flask_restful/utils/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "8e079dbce2c67939384aaa31e161c4fef0052cfd13fcfacb1cee0f5daa85ab1c",
+        "sha256_in_prefix": "8e079dbce2c67939384aaa31e161c4fef0052cfd13fcfacb1cee0f5daa85ab1c",
+        "size_in_bytes": 723
+      },
+      {
+        "_path": "Lib/site-packages/flask_restful/utils/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "df8a28c14da2f7d9d05396e04b4878793a6f38758fe5fd043a6c035b3fc448ca",
+        "sha256_in_prefix": "df8a28c14da2f7d9d05396e04b4878793a6f38758fe5fd043a6c035b3fc448ca",
+        "size_in_bytes": 1338
+      },
+      {
+        "_path": "Lib/site-packages/flask_restful/utils/__pycache__/cors.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "330ae21db9eabd58fee421f3f0674a7eafe9f0b930307bac0c2419b587b76a91",
+        "sha256_in_prefix": "330ae21db9eabd58fee421f3f0674a7eafe9f0b930307bac0c2419b587b76a91",
+        "size_in_bytes": 3874
+      },
+      {
+        "_path": "Lib/site-packages/flask_restful/utils/__pycache__/crypto.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "33dc659240753b2285bc2dba044398d0874d2a7441a86a475f7ea01ace675c34",
+        "sha256_in_prefix": "33dc659240753b2285bc2dba044398d0874d2a7441a86a475f7ea01ace675c34",
+        "size_in_bytes": 2288
+      },
+      {
+        "_path": "Lib/site-packages/flask_restful/utils/cors.py",
+        "path_type": "hardlink",
+        "sha256": "7198aa6878489f4c3aeaca51a1221d0be8c89f85ff6fa3a5566b3978617812cb",
+        "sha256_in_prefix": "7198aa6878489f4c3aeaca51a1221d0be8c89f85ff6fa3a5566b3978617812cb",
+        "size_in_bytes": 2084
+      },
+      {
+        "_path": "Lib/site-packages/flask_restful/utils/crypto.py",
+        "path_type": "hardlink",
+        "sha256": "ab73c1bc060c258c9b6eaa9094a345fcfa9eca8f61df1e63149b95aad100e5b0",
+        "sha256_in_prefix": "ab73c1bc060c258c9b6eaa9094a345fcfa9eca8f61df1e63149b95aad100e5b0",
+        "size_in_bytes": 996
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "flask-restful",
+  "sha256": "658d1a5e308d2d074f9df80563d57a3c91823073ef9c8b9a320c59d1b1879c03",
+  "size": 57068,
+  "subdir": "win-64",
+  "timestamp": 1676471792587,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/flask-restful-0.3.9-py311haa95532_0.conda",
+  "version": "0.3.9"
+}
